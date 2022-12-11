@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @biswa8670
 - 👀 I’m interested in Playing video games.
 - 🌱 I’m currently learning Aerospace Engineering and applied mechanics
-
-- 💞️ I’m looking to collaborate on NASA Collaboration.
 - 📫 That's all ,bro.
 
 <!---
